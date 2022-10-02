@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.1fbf8ef6.css",
-    "main.js": "/static/js/main.aab338de.js",
+    "main.js": "/static/js/main.0d4fa552.js",
     "static/media/christian-wiediger-1SuvI_ePhVw-unsplash.jpg": "/static/media/christian-wiediger-1SuvI_ePhVw-unsplash.ca82d126f1f3bd11fc26.jpg",
     "index.html": "/index.html",
     "static/media/cart-outline.svg": "/static/media/cart-outline.393e99fc97514ea1f09a8070559b380b.svg",
     "static/media/heart-outline.svg": "/static/media/heart-outline.bcdb5552e776f449fbc379595ef4fc82.svg",
     "static/media/heart.svg": "/static/media/heart.1481b47106cc95e25b4a149f63de2354.svg",
     "main.1fbf8ef6.css.map": "/static/css/main.1fbf8ef6.css.map",
-    "main.aab338de.js.map": "/static/js/main.aab338de.js.map"
+    "main.0d4fa552.js.map": "/static/js/main.0d4fa552.js.map"
   },
   "entrypoints": [
     "static/css/main.1fbf8ef6.css",
-    "static/js/main.aab338de.js"
+    "static/js/main.0d4fa552.js"
   ]
 }
