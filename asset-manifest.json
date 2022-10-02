@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Music-Shop/static/css/main.cd51103f.css",
+    "main.css": "/Music-Shop/static/css/main.0f84eea7.css",
     "main.js": "/Music-Shop/static/js/main.ecc2ce00.js",
     "static/media/christian-wiediger-1SuvI_ePhVw-unsplash.jpg": "/Music-Shop/static/media/christian-wiediger-1SuvI_ePhVw-unsplash.ca82d126f1f3bd11fc26.jpg",
     "index.html": "/Music-Shop/index.html",
     "static/media/cart-outline.svg": "/Music-Shop/static/media/cart-outline.393e99fc97514ea1f09a8070559b380b.svg",
     "static/media/heart-outline.svg": "/Music-Shop/static/media/heart-outline.bcdb5552e776f449fbc379595ef4fc82.svg",
     "static/media/heart.svg": "/Music-Shop/static/media/heart.1481b47106cc95e25b4a149f63de2354.svg",
-    "main.cd51103f.css.map": "/Music-Shop/static/css/main.cd51103f.css.map",
+    "main.0f84eea7.css.map": "/Music-Shop/static/css/main.0f84eea7.css.map",
     "main.ecc2ce00.js.map": "/Music-Shop/static/js/main.ecc2ce00.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd51103f.css",
+    "static/css/main.0f84eea7.css",
     "static/js/main.ecc2ce00.js"
   ]
 }
