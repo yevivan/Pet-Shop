@@ -2,8 +2,8 @@
     {
       "title": "Bernese Mountain Dog ",
       "img": "https://i.etsystatic.com/5302623/r/il/84d0a6/3252603756/il_570xN.3252603756_jqlk.jpg",
-      "price": " 1000 USD",
-      "description": " Dog",
+      "price": "1000 USD",
+      "description": "Dog",
       "isFavorite": false,
       "id": 1
     },
@@ -11,8 +11,8 @@
     {
       "title": "Golden Retriever Dog ",
       "img": "https://www.akc.org/wp-content/uploads/2020/07/Golden-Retriever-puppy-standing-outdoors-500x486.jpg",
-      "price": " 850 USD",
-      "description": " Dog",
+      "price": "850 USD",
+      "description": "Dog",
       "isFavorite": false,
       "id": 2
     },
@@ -20,15 +20,15 @@
       "title": "Brown Labrador Dog  ",
       "img": " https://www.purina.com.au/-/media/project/purina/main/breeds/puppies/puppy-chocolate-labrador.jpg",
       "price": " 2000 USD",
-      "description": " Dog",
+      "description": "Dog",
       "isFavorite": false,
       "id": 3
     },
     {
       "title": "Black Labrador Dog ",
       "img": "https://www.keystonepuppies.com/wp-content/uploads/2022/09/Daxter-Black-lab-480x394.jpg",
-      "price": " 500 USD",
-      "description": " Dog",
+      "price": "1500 USD",
+      "description": "Dog",
       "isFavorite": false,
       "id": 4
     },
@@ -36,8 +36,8 @@
     {
       "title": "Samoyed Dog  ",
       "img": "https://samoyedpups.company.com/uploads/1/3/2/3/132379799/sam1_orig.jpeg",
-      "price": " 1500 USD",
-      "description": " Dog",
+      "price": "1500 USD",
+      "description": "Dog",
       "isFavorite": false,
       "id": 5
     },
@@ -45,59 +45,59 @@
      {
       "title": "English Bulldog ",
       "img": "https://centralparkpuppies.com/wp-content/uploads/2021/09/english-bulldog.jpg",
-      "price": " 2400 USD",
-      "description": " Dog",
+      "price": "2400 USD",
+      "description": "Dog",
      "isFavorite": false,
       "id": 6
     },
 
     {
-      "title": "Maren Morris",
-      "img": "https://artist1.cdn107.com/89f/89fb2dc96c3ccac8f1b8110ec39df71b_xl.jpg",
-      "price": " 100 USD",
-      "description": " Psychodelic Pop",
+      "title": "Poodle Dog",
+      "img": "https://www.davpetlovers.com/wp-content/uploads/2020/04/IMG_8917.jpg",
+      "price": "1000 USD",
+      "description": " Dog",
      "isFavorite": false,
       "id": 7
     },
     {
-      "title": "Jillian Jacqueline",
-      "img": "https://artist1.cdn107.com/845/845896f33c996abba1140f4186d712e8_xl.jpg",
-      "price": " 100 USD",
-      "description": " Psychodelic Pop",
+      "title": "Riesenschnauzer Dog",
+      "img": "https://i.pinimg.com/736x/b6/c3/ea/b6c3eaa6eb0aa30640b8d92b7ff34523--schnauzer-puppies-giant-schnauzer.jpg",
+      "price": "800 USD",
+      "description": " Dog",
      "isFavorite": false,
       "id": 8
     },
     
     {
-      "title": "Runaway June",
-      "img": "https://artist1.cdn107.com/ee4/ee4e60521e4818fc6dde60853a543e27_xl.jpg",
-      "price": " 100 USD",
-      "description": " Psychodelic Pop",
+      "title": "San Bernard Dog ",
+      "img": "https://i0.wp.com/puppytoob.com/wp-content/uploads/2017/08/Saint-Bernard-Puppies.jpg",
+      "price": "790 USD",
+      "description": "Dog",
      "isFavorite": false,
       "id": 9
     },
 
     {
-      "title": "The Saturdays",
-      "img": "https://artist1.cdn107.com/acb/acba6a79a00d2353158540cdcb94cab4_xl.jpg",
-      "price": " 100 USD",
-      "description": " Psychodelic Pop",
+      "title": "Taksa Dog ",
+      "img": "https://i.pinimg.com/736x/c1/03/62/c10362be93c160f084d006ef5e5c987a.jpg",
+      "price": "1000 USD",
+      "description": "Dog",
      "isFavorite": false,
       "id": 10
     },
     {
-      "title": "Maren Morris",
-      "img": "https://artist1.cdn107.com/89f/89fb2dc96c3ccac8f1b8110ec39df71b_xl.jpg",
-      "price": " 100 USD",
-      "description": " Psychodelic Pop",
+      "title": "Rottweiler Dog  ",
+      "img": "https://blog.mystart.com/wp-content/uploads/My_Rotweiller_00.jpeg",
+      "price": "1400 USD",
+      "description": "Dog",
      "isFavorite": false,
       "id": 11
     },
     {
-      "title": "Danielle Bradbery",
-      "img": "https://artist1.cdn107.com/8a0/8a0498c5736860a14d8e4db2c5bdd364_xl.jpg",
-      "price": " 100 USD",
-      "description": " Psychodelic Pop",
+      "title": "Cocker Spaniel Dog",
+      "img": "https://gfp-2a3tnpzj.stackpathdns.com/wp-content/uploads/2020/10/cocker-spaniel-puppy-sitting-in-the-grass-600x600.jpg",
+      "price": "1900 USD",
+      "description": "Dog",
      "isFavorite": false,
       "id": 12
     }
