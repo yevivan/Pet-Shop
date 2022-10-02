@@ -1,52 +1,52 @@
   [
     {
-      "title": "Mandy Moore",
-      "img": "https://artist1.cdn107.com/acb/acba6a79a00d2353158540cdcb94cab4_xl.jpg",
-      "price": " 100 USD",
-      "description": " Psychodelic Pop",
+      "title": "Bernese Mountain Dog ",
+      "img": "https://i.etsystatic.com/5302623/r/il/84d0a6/3252603756/il_570xN.3252603756_jqlk.jpg",
+      "price": " 1000 USD",
+      "description": " Dog",
       "isFavorite": false,
       "id": 1
     },
 
     {
-      "title": "Carly Pearce",
-      "img": "https://artist1.cdn107.com/5ca/5ca45dd206679973c9d7cac193ec3091_xl.jpg",
-      "price": " 85 USD",
-      "description": " Country BBQ",
+      "title": "Golden Retriever Dog ",
+      "img": "https://www.akc.org/wp-content/uploads/2020/07/Golden-Retriever-puppy-standing-outdoors-500x486.jpg",
+      "price": " 850 USD",
+      "description": " Dog",
       "isFavorite": false,
       "id": 2
     },
     {
-      "title": "Maddie & Tae",
+      "title": "Brown Labrador Dog  ",
       "img": "https://artist1.cdn107.com/845/845896f33c996abba1140f4186d712e8_xl.jpg",
-      "price": " 20 USD",
-      "description": " Psychodelic Pop",
+      "price": " 2000 USD",
+      "description": " Dog",
       "isFavorite": false,
       "id": 3
     },
     {
-      "title": "The JaneDear Girls",
-      "img": "https://artist1.cdn107.com/5ca/5ca45dd206679973c9d7cac193ec3091_xl.jpg",
+      "title": "Black Labrador Dog ",
+      "img": "hhttps://www.keystonepuppies.com/wp-content/uploads/2022/09/Daxter-Black-lab-480x394.jpg",
       "price": " 500 USD",
-      "description": " Chill",
+      "description": " Dog",
       "isFavorite": false,
       "id": 4
     },
 
     {
-      "title": "Pistol Annies",
-      "img": "https://artist1.cdn107.com/ee4/ee4e60521e4818fc6dde60853a543e27_xl.jpg",
-      "price": " 100 USD",
-      "description": " Psychodelic Pop",
+      "title": "Samoyed Dog  ",
+      "img": "https://samoyedpups.company.com/uploads/1/3/2/3/132379799/sam1_orig.jpeg",
+      "price": " 1500 USD",
+      "description": " Dog",
       "isFavorite": false,
       "id": 5
     },
 
      {
-      "title": "Danielle Bradbery",
-      "img": "https://artist1.cdn107.com/8a0/8a0498c5736860a14d8e4db2c5bdd364_xl.jpg",
-      "price": " 100 USD",
-      "description": " Psychodelic Pop",
+      "title": "English Bulldog ",
+      "img": "https://centralparkpuppies.com/wp-content/uploads/2021/09/english-bulldog.jpg",
+      "price": " 2400 USD",
+      "description": " Dog",
      "isFavorite": false,
       "id": 6
     },
@@ -103,3 +103,5 @@
     }
 ]
   
+
+
