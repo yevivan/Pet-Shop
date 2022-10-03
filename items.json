@@ -2,7 +2,7 @@
     {
       "title": "Bernese Mountain Dog ",
       "img": "https://i.etsystatic.com/5302623/r/il/84d0a6/3252603756/il_570xN.3252603756_jqlk.jpg",
-      "price": "1000 USD",
+      "price": "2400 USD",
       "description": "Dog",
       "isFavorite": false,
       "id": 1
@@ -45,7 +45,7 @@
      {
       "title": "English Bulldog ",
       "img": "https://centralparkpuppies.com/wp-content/uploads/2021/09/english-bulldog.jpg",
-      "price": "2400 USD",
+      "price": "500 USD",
       "description": "Dog",
      "isFavorite": false,
       "id": 6
