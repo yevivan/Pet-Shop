@@ -1,0 +1,37 @@
+body {
+  background-image: url(../src/images/photo_2022-10-02_17-39-26.jpg);
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+}
+.App {
+  height: 100vh;
+
+  main {
+    display: flex;
+  }
+
+  h1,
+  h2 {
+    margin-top: 80px;
+    font-weight: 400;
+    font-size: 36px;
+    width: 100%;
+    text-align: center;
+
+  }
+}
+
+.leftContainer,
+.rightContainer {
+  box-sizing: border-box;
+  padding: 24px;
+}
+
+.leftContainer {
+  flex: 3;
+}
+
+.rightContainer {
+  flex: 1;
+  border-left: 5px solid red;
+}

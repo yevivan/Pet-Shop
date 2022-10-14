@@ -1,0 +1,136 @@
+.darkBG {
+  background-color: rgba(0, 0, 0, 0.8);
+  width: 100vw;
+  height: 100vh;
+  z-index: 0;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.modal {
+  width: 39vw;
+  height: 40vh;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 10;
+  border-radius: 5px;
+}
+
+.modalHeader {
+  height: 50px;
+  position: relative;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.heading {
+  padding: 30px;
+  color: white;
+  font-weight: 500;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.modalContent {
+  margin-top: 30px;
+  padding: 10px;
+  font-size: 24px;
+  color: white;
+  text-align: center;
+  align-content: center;
+}
+
+.modalActions {
+  position: absolute;
+  bottom: 2px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.actionsContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.closeBtn {
+  cursor: pointer;
+  font-weight: 500;
+  padding: 4px 8px;
+  font-size: 24px;
+  color: white;
+  background-color: transparent;
+  position: absolute;
+  right: 10px;
+  top: 25%;
+  align-self: flex-end;
+  border: none;
+}
+
+.deleteBtn,
+.addBtn {
+  margin-top: 10px;
+  margin-left: 40px;
+  cursor: pointer;
+  font-weight: 500;
+  padding: 11px 28px;
+  border-radius: 3px;
+  font-size: 0.8rem;
+  border: none;
+  color: #fff;
+  background: rgb(52, 52, 85);
+  transition: all 0.25s ease;
+  &:hover {
+    box-shadow: 0 10px 20px -10px rgba(255, 62, 78, 0.6);
+    transform: translateY(-5px);
+    background: rgb(73, 73, 126);
+  }
+}
+
+.addBtn {
+
+  transition: all 0.25s ease;
+  &:hover {
+    box-shadow: 0 10px 20px -10px rgba(255, 62, 78, 0.6);
+    transform: translateY(-5px);
+    background: rgb(67, 105, 55);
+  }
+}
+
+.deleteBtn
+{
+  transition: all 0.25s ease;
+  &:hover {
+    box-shadow: 0 10px 20px -10px rgba(255, 62, 78, 0.6);
+    transform: translateY(-5px);
+    background: rgb(235, 62, 70);
+  }
+}
+
+.cancelBtn {
+  margin-top: 10px;
+  cursor: pointer;
+  font-weight: 500;
+  padding: 11px 28px;
+  border-radius: 3px;
+  font-size: 0.8rem;
+  border: none;
+  color: white;
+  background: rgb(52, 52, 85);
+  transition: all 0.25s ease;
+  &:hover {
+    box-shadow: none;
+    transform: translateY(-5px);
+    background: rgb(73, 73, 126);
+  }
+}

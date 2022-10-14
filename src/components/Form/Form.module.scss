@@ -1,0 +1,70 @@
+.form {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  // border: 2px solid rgba(0, 0, 0, 0.6);
+  padding: 40px 140px;
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input {
+  border: 1px solid black;
+  border-radius: 3px;
+  margin-left: 10px;
+  float: right;
+  padding: 5px;
+}
+
+label {
+  position: relative;
+  padding: 10px 0px;
+  color: white;
+  font-weight: 200;
+}
+
+.error {
+  margin-top: 15px;
+  position: relative;
+  left: 50%;
+  color: red;
+  font-weight: 400;
+}
+
+.checkoutBtn {
+  margin-top: 30px;
+  padding: 10px;
+  border-radius: 3px;
+  background: rgb(52, 52, 85);
+  border: none;
+  color: white;
+  transition: all 0.25s ease;
+  &:hover {
+    box-shadow: 0 10px 20px -10px rgba(255, 62, 78, 0.6);
+    transform: translateY(-5px);
+    background: rgb(73, 73, 126);
+  }
+}
+
+.header {
+  margin-top: 30px !important;
+  margin-bottom: 70px !important;
+  color: rgb(232, 235, 238);
+}
+
+.closeBtn {
+  cursor: pointer;
+  font-weight: 500;
+  padding: 4px 8px;
+  font-size: 24px;
+  color: white;
+  background-color: transparent;
+  position: absolute;
+  right: 15px;
+  top: 5%;
+  align-self: flex-end;
+  border: none;
+}
