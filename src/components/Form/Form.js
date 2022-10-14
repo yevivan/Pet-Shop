@@ -4,7 +4,7 @@ import * as Yup from "yup";
 import styles from "./Form.module.scss";
 import { useDispatch, useSelector } from "react-redux";
 import { cleanCart } from "../../store/Add to cart/ActionsCreator";
-import { hideCheckoutForm } from "../../store/Check our form/actionsCreator";
+import { hideCheckoutForm } from "../../store/CheckOut form/actionsCreator";
 import { useLocation } from "react-router-dom";
 import { useEffect } from "react";
 
@@ -62,7 +62,14 @@ export const Form = () => {
   return (
     <form onSubmit={formik.handleSubmit} className={styles.form}>
       <h1 className={styles.header}> Please fill in all the fields </h1>
-      <button className={styles.closeBtn} onClick = {() => {dispatch(hideCheckoutForm())}}>X</button>
+      <button
+        className={styles.closeBtn}
+        onClick={() => {
+          dispatch(hideCheckoutForm());
+        }}
+      >
+        X
+      </button>
       <label htmlFor="firstName">
         First Name
         <input

@@ -10,7 +10,7 @@ import {
   showCheckoutForm,
   showBuyNowBtn,
   hideBuyNowBtn,
-} from "../../store/Check our form/actionsCreator";
+} from "../../store/CheckOut form/actionsCreator";
 
 const CartPage = () => {
   const dispatch = useDispatch();
